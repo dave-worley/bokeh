@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "css-loader": "^0.28.8",
+    "eve": "^0.5.4",
+    "lodash": "^4.17.4",
+    "snapsvg-cjs": "^0.0.6",
+    "style-loader": "^0.19.1",
+    "victor": "^1.1.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "name": "bokeh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
